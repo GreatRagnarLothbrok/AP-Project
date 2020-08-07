@@ -31,6 +31,8 @@ if(ANDROID)
     main.cpp
     Game.cpp
     Game.h
+    Movable.cpp
+    Movable.h
     Resources.qrc
   )
 else()
@@ -38,6 +40,8 @@ else()
     main.cpp
     Game.cpp
     Game.h
+    Movable.cpp
+    Movable.h
     Resources.qrc
   )
 endif()
